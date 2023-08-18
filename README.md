@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **cyber security**
   
--🌱 I’m currently working **egypt studio** 
-
 - 💬 Ask me about **Full Stack Dveloper**
 
 - 📫 How to reach me **mahmoudyousef59@outlook.com**
